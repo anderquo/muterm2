@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Iroven 0.01\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-31 17:47+0300\n"
+"PO-Revision-Date: 2013-08-31 20:06+0300\n"
+"Last-Translator: YZ <edartus@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: src/muterm/TerminalPage.scala:206
+msgid "connect"
+msgstr "подключить"
+
+#: src/muterm/TerminalPage.scala:229
+msgid "disconnect"
+msgstr "отключить"
+
+#: src/muterm/TerminalPage.scala:243
+#: src/muterm/TerminalPage.scala:307
+#: src/muterm/TerminalPage.scala:359
+msgid "clear"
+msgstr "очистить"
+
+#: src/muterm/TerminalPage.scala:244
+msgid "Clear RX text area"
+msgstr "Очистить приемный буфер"
+
+#: src/muterm/TerminalPage.scala:252
+msgid "save"
+msgstr "записать"
+
+#: src/muterm/TerminalPage.scala:253
+msgid "Save contents of RX text area"
+msgstr "Записать содержимое приемного буфера"
+
+#: src/muterm/TerminalPage.scala:261
+msgid "Select RX text format"
+msgstr "Выбрать формат приема"
+
+#: src/muterm/TerminalPage.scala:279
+#: src/muterm/TerminalPage.scala:297
+msgid "Select text encoding"
+msgstr "Выбрать кодировку приема"
+
+#: src/muterm/TerminalPage.scala:291
+#: src/muterm/TerminalPage.scala:370
+msgid "Select text format"
+msgstr "Выбрать формат текста"
+
+#: src/muterm/TerminalPage.scala:301
+msgid "Append CR (0x0D) to string"
+msgstr "Добавить CR (0x0D)"
+
+#: src/muterm/TerminalPage.scala:304
+msgid "Append LF (0x0A) to string"
+msgstr "Добавить LF (0x0A)"
+
+#: src/muterm/TerminalPage.scala:315
+msgid "send"
+msgstr "передать"
+
+#: src/muterm/TerminalPage.scala:385
+msgid "port: "
+msgstr "порт: "
+
+#: src/muterm/TerminalPage.scala:389
+msgid "baud: "
+msgstr "скорость: "
+
+#: src/muterm/TerminalPage.scala:393
+msgid "bits: "
+msgstr "биты: "
+
+#: src/muterm/TerminalPage.scala:397
+msgid "parity: "
+msgstr "четность: "
+
+#: src/muterm/TerminalPage.scala:401
+msgid "stops: "
+msgstr "стопы: "
+
+#: src/muterm/MainPane.scala:14
+msgid "Open"
+msgstr "Открыть"
+

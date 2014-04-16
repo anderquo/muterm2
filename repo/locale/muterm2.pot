@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-31 17:47+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/muterm/TerminalPage.scala:206
+msgid "connect"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:229
+msgid "disconnect"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:243 src/muterm/TerminalPage.scala:307
+#: src/muterm/TerminalPage.scala:359
+msgid "clear"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:244
+msgid "Clear RX text area"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:252
+msgid "save"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:253
+msgid "Save contents of RX text area"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:261
+msgid "Select RX text format"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:279 src/muterm/TerminalPage.scala:297
+msgid "Select text encoding"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:291 src/muterm/TerminalPage.scala:370
+msgid "Select text format"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:301
+msgid "Append CR (0x0D) to string"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:304
+msgid "Append LF (0x0A) to string"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:315
+msgid "send"
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:385
+msgid "port: "
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:389
+msgid "baud: "
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:393
+msgid "bits: "
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:397
+msgid "parity: "
+msgstr ""
+
+#: src/muterm/TerminalPage.scala:401
+msgid "stops: "
+msgstr ""
+
+#: src/muterm/MainPane.scala:14
+msgid "Open"
+msgstr ""
