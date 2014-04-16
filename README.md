@@ -3,7 +3,7 @@ muterm2
 
 Cross-platform scriptable serial terminal.
 
-Requires JRE/JDK 8.
+Requires JRE/JDK 8. Release build - in repo/release directory.
 
 Extensible with in/out JS filters.
 
